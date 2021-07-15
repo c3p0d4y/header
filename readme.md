@@ -4,7 +4,9 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=c3p0d4y&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/c3p0d4y"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+  <a href="https://www.buymeacoffee.com/c3p0d4y"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="c3p0d4y" /></a>
+  <img src="https://discordapp.com/api/guilds/727987570625216582/widget.png?style=shield" alt="Discord Shield"/>
+
 </p>
 
 <!-- <p align="center">
